@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.iven.musicplayergo",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 59,
+        "versionName": "2.4.1.8",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.iven.musicplayergo",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}
